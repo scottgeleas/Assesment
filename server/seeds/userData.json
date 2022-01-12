@@ -1,0 +1,56 @@
+[
+  {
+    "first_name": "Scott",
+    "last_name": "Geleas",
+    "department": "Legal",
+    "password": "password"
+  },
+  {
+    "first_name": "Paul",
+    "last_name": "Jones",
+    "department": "Legal",
+    "password": "password"
+  },
+  {
+    "first_name": "Tom",
+    "last_name": "Sawyer",
+    "department": "Legal",
+    "password": "password"
+  },
+  {
+    "first_name": "Rick",
+    "last_name": "Johnson",
+    "department": "Finance",
+    "password": "password"
+  },
+  {
+    "first_name": "Abby",
+    "last_name": "Sanders",
+    "department": "Finance",
+    "password": "password"
+  },
+  {
+    "first_name": "Jim",
+    "last_name": "Jenkins",
+    "department": "Finance",
+    "password": "password"
+  },
+  {
+    "first_name": "Mark",
+    "last_name": "O'Sullivan",
+    "department": "Finance",
+    "password": "password"
+  },
+  {
+    "first_name": "Jeremy",
+    "last_name": "Socks",
+    "department": "HR",
+    "password": "password"
+  },
+  {
+    "first_name": "Autumn",
+    "last_name": "Winters",
+    "department": "HR",
+    "password": "password"
+  }
+]
